@@ -2,6 +2,10 @@
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
+//Bongiwe Tebenguni Mthethwa
+//201901161
+//BSC It
+//Department of computer science
 
 using namespace std;
 
